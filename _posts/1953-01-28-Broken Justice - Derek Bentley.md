@@ -6,13 +6,13 @@ image: /assets/Execution-Innocent-Derek-Bentley-4.jpg
 categories: Justice
 ---
 
-> ![Derek Bentley](/assets/Execution-Innocent-Derek-Bentley-4.jpg){: .width-300}
+> ![Derek Bentley](/assets/Execution-Innocent-Derek-Bentley-4.jpg){: .full-width}
 > Derek Bentley
 
-> ![Derek Bentley](/assets/derekbentley4JPG.jpg){: .width-300}
+> ![Derek Bentley](/assets/derekbentley4JPG.jpg){: .full-width}
 > A Victim of British Justice
 
-<style>.width-300 {width:360px;}</style>
+<style>.full-width {width:100%;}</style>
 
 > Derek Bentley (30 June 1933 – 28 January 1953) was an English man who was hanged for the murder of a policeman, which was committed in the course of a burglary attempt. The murder was said at the time to have been committed by a friend and accomplice of Bentley's, Christopher Craig, then aged 16, but whether he had fired the fatal shot was later called into question. Bentley was convicted as a party to murder, by the English law principle of common purpose, "joint enterprise". The jury at the trial found Bentley guilty based on the prosecution's interpretation of the ambiguous phrase "Let him have it" (Bentley's alleged instruction to Craig), after the judge, Lord Chief Justice Goddard, had described Bentley as "mentally aiding the murder of Police Constable Sidney Miles". Goddard then sentenced Bentley to be hanged: at the time, no other sentence was possible.
 >
