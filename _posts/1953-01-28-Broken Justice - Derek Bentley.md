@@ -1,6 +1,6 @@
 ---
 layout: post
-title: sham 69 - who gives a damn
+title: Broken Justice - Derek Bentley
 categories: music
 ---
 
@@ -14,5 +14,5 @@ categories: music
 
 &#8212; [Wikipedia](https://en.wikipedia.org/wiki/Derek_Bentley_case)
 
-<iframe width="280" height="280" src="https://www.youtube.com/embed/IjnG6syLcfU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="360" height="360" src="https://www.youtube.com/embed/IjnG6syLcfU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
