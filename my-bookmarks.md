@@ -1,64 +1,27 @@
-<!DOCTYPE html>
-<html>
-<head>
-<!-- Meta Tags properties  -->
-<meta property="og:type" content="website"/>
-<meta property="og:url" content="https://robcamstone.github.io"/>
-<meta property="og:title" content="Robcamstone"/>
-<meta property="og:description" content="Home page of my website.">
+---
+layout: page
+title: My Bookmarks
+permalink: /my-bookmarks/
+---
 
-<!-- Meta Tags names  -->
-<meta name="title" content="Robcamstone"/>
-<meta name="description" content="Home page of my website.">
-<meta name="viewport" content="width=device-width, initial-scale=1" />
+| [Coding](#Coding) | [Github](#Github) | [Google](#Google) | [Graphics](Graphics) | [Lifestyle](#Lifestyle) | [Music](#Music) | [Poetry](#Poetry) | [Storage](#Storage) | [TV&nbsp;&&nbsp;Radio](#TVRadio) | [YouTube](#YouTube) |
 
-<!-- Twitter Card Meta Tags  -->
-<meta name="twitter:card" content="summary" />
 
-<meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
 
-<!-- CSS-->
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" />
-<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet" />
-<link href="/materialize/css/materialize.min.css" type="text/css" rel="stylesheet" media="screen" />
-<link href="/materialize/css/style.css" type="text/css" rel="stylesheet" media="screen" />
 
-<title>Robcamstone's Homepage</title>
-</head>
 
-<body>
-<div class="navbar-fixed">
-<nav>
-<div class="nav-wrapper">
-<a class="brand-logo truncate">Robcamstone</a>
-<a href="#" data-target="mobile-demo" class="sidenav-trigger"><i class="material-icons">menu</i></a>
-<ul class="right hide-on-med-and-down">
-<li><a href="/#Coding"><i class="fa fa-code" aria-hidden="true"></i> Coding</a></li>
-<li><a href="/#Github"><i class="fa fa-github" aria-hidden="true"></i> Github</a></li>
-<li><a href="/#Google"><i class="fa fa-google" aria-hidden="true"></i> Google</a></li>
-<li><a href="/#Graphics"><i class="fa fa-file-image-o" aria-hidden="true"></i> Graphics</a></li>
-<li><a href="/#Lifestyle"><i class="fa fa-users" aria-hidden="true"></i> Lifestyle</a></li>
-<li><a href="/#Music"><i class="fa fa-music" aria-hidden="true"></i> Music</a></li>
-<li><a href="/#Poetry"><i class="fa fa-comment-o" aria-hidden="true"></i> Poetry</a></li>
-<li><a href="/#Storage"><i class="fa fa-archive" aria-hidden="true"></i> Storage</a></li>
-<li><a href="/#TVRadio"><i class="fa fa-television" aria-hidden="true"></i> TV & <i class="fa fa-microphone" aria-hidden="true"></i> Radio</a></li>
-<li><a href="/#YouTube"><i class="fa fa-youtube" aria-hidden="true"></i> YouTube</a></li>
-</ul>
-</div>
-</nav>
-</div>
 
 <ul class="sidenav" id="mobile-demo">
-<li><a href="/#Coding"><i class="fa fa-code" aria-hidden="true"></i> Coding</a></li>
-<li><a href="/#Github"><i class="fa fa-github" aria-hidden="true"></i> Github</a></li>
-<li><a href="/#Google"><i class="fa fa-google" aria-hidden="true"></i> Google</a></li>
-<li><a href="/#Graphics"><i class="fa fa-file-image-o" aria-hidden="true"></i> Graphics</a></li>
-<li><a href="/#Lifestyle"><i class="fa fa-users" aria-hidden="true"></i> Lifestyle</a></li>
-<li><a href="/#Music"><i class="fa fa-music" aria-hidden="true"></i> Music</a></li>
-<li><a href="/#Poetry"><i class="fa fa-comment-o" aria-hidden="true"></i> Poetry</a></li>
-<li><a href="/#Storage"><i class="fa fa-archive" aria-hidden="true"></i> Storage</a></li>
-<li><a href="/#TVRadio"><i class="fa fa-television" aria-hidden="true"></i> <i class="fa fa-microphone" aria-hidden="true"></i> TV & Radio</a></li>
-<li><a href="/#YouTube"><i class="fa fa-youtube" aria-hidden="true"></i> YouTube</a></li>
+<li><a href="#Coding"><i class="fa fa-code" aria-hidden="true"></i> Coding</a></li>
+<li><a href="#Github"><i class="fa fa-github" aria-hidden="true"></i> Github</a></li>
+<li><a href="#Google"><i class="fa fa-google" aria-hidden="true"></i> Google</a></li>
+<li><a href="#Graphics"><i class="fa fa-file-image-o" aria-hidden="true"></i> Graphics</a></li>
+<li><a href="#Lifestyle"><i class="fa fa-users" aria-hidden="true"></i> Lifestyle</a></li>
+<li><a href="#Music"><i class="fa fa-music" aria-hidden="true"></i> Music</a></li>
+<li><a href="#Poetry"><i class="fa fa-comment-o" aria-hidden="true"></i> Poetry</a></li>
+<li><a href="#Storage"><i class="fa fa-archive" aria-hidden="true"></i> Storage</a></li>
+<li><a href="#TVRadio"><i class="fa fa-television" aria-hidden="true"></i> <i class="fa fa-microphone" aria-hidden="true"></i> TV & Radio</a></li>
+<li><a href="#YouTube"><i class="fa fa-youtube" aria-hidden="true"></i> YouTube</a></li>
 </ul>
 
 <main class="Main-Default">
@@ -135,7 +98,7 @@
 <ul class="browser-default">
 <li><b><a href="https://www.google.com/?gfe_rd=cr&dcr=0&ei=bzHaWeOpIsmT8QfX1I2wDQ&gws_rd=cr&fg=1">Google</a></b></li>
 <ul class="browser-default">
-<li><a href="https://www.google.com/cloudprint#printers">Google cloudprint</a></li>
+<li><a href="https://www.google.com/cloudprint/#printers">Google cloudprint</a></li>
 <li><a href="https://drive.google.com/drive/">Google Drive</a></li>
 <li><a href="http://gmail.com">Google Mail</a></li>
 <li><a href="https://www.google.co.uk/maps">Google Maps</a></li>
@@ -156,7 +119,7 @@
 <ul class="browser-default">
 <li><b>Hosting Website</b></li>
 <ul class="browser-default">
-<li><a href="https://www.icloud.com/#photos">iCloud Photos</a></li>
+<li><a href="https://www.icloud.com#photos">iCloud Photos</a></li>
 </ul></ul>
 <ul class="browser-default">
 <li><b>OnLine Graphic Tootls</b></li>
