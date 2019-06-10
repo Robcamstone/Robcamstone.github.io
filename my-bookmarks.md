@@ -2,7 +2,7 @@
 layout: page
 title: My Bookmarks
 description: List of Bookmarks I use on a daily bases.
-permalink: /my-bookmarks/index.html
+permalink: /my-bookmarks/
 ---
 
 | [Coding](#coding-websites) | [Github](#github) | [Google](#google-links) | [Graphics](#graphics) | [Lifestyle](#lifestyle) | [Music](#music) | [Storage](#storage) | [TV&nbsp;&&nbsp;Radio](#tv--radio) | [YouTube](#youtube) |
