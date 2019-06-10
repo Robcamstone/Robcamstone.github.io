@@ -6,7 +6,7 @@ permalink: /my-bookmarks/index.html
 
 | [Coding](#coding) | [Github](#github) | [Google](#google) | [Graphics](#graphics) | [Lifestyle](#lifestyle) | [Music](#music) | [Poetry](#poetry) | [Storage](#storage) | [TV&nbsp;&&nbsp;Radio](#tvradio) | [YouTube](#youtube) |
 
-# Coding{: #coding}
+# Coding
 
 ## Coding playground
 
@@ -28,7 +28,7 @@ permalink: /my-bookmarks/index.html
 
 * [Facebook: Fix profile photo being obscured by cover photo]()
 
-# Github{: #github}
+# Github
 
 ## Profile
 
