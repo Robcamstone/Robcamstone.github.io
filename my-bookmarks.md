@@ -1,78 +1,60 @@
 ---
 layout: page
 title: My Bookmarks
-permalink: /my-bookmarks/
+permalink: /my-bookmarks/index.html
 ---
 
-| [Coding](#Coding) | [Github](#Github) | [Google](#Google) | [Graphics](Graphics) | [Lifestyle](#Lifestyle) | [Music](#Music) | [Poetry](#Poetry) | [Storage](#Storage) | [TV&nbsp;&&nbsp;Radio](#TVRadio) | [YouTube](#YouTube) |
+| [Coding](#coding) | [Github](#github) | [Google](#google) | [Graphics](#graphics) | [Lifestyle](#lifestyle) | [Music](#music) | [Poetry](#poetry) | [Storage](#storage) | [TV&nbsp;&&nbsp;Radio](#tvradio) | [YouTube](#youtube) |
+
+# Coding{: #coding}
+
+## Coding playground
+
+* [Codepen: Robcamstone](https://codepen.io/Robcamstone)
+* [CSS Deck: Robcamstone](http://cssdeck.com/user/Robcamstone)
+* [JSFiddle](https://jsfiddle.net)
+
+## Online Tools
+
+* [Aspect Ratio Calculator](https://calculateaspectratio.com)
+* [Broken Link Checker](http://www.brokenlinkcheck.com)
+* [Facebook for Developers: Sharing Debugger](https://developers.facebook.com/tools/debug/sharing)
+* [Free Online Tools For Developers](https://www.freeformatter.com)
+* [HTML Codes Table](https://www.ascii.cl/htmlcodes.htm)
+* [Stack Exchange: Robcamstone](https://stackexchange.com/users/11999151/robcamstone)
+* [XML-Sitemaps](https://www.xml-sitemaps.com)
+
+## Stylish Scripts
+
+* [Facebook: Fix profile photo being obscured by cover photo]()
+
+# Github{: #github}
+
+## Profile
+
+* [Robcamstone](https://github.com/Robcamstone)
+* [Fanz of Lucy Worsley](https://github.com/FanzOfLucyWorsley)
+* [Fanz of Lena Zavaroni](https://github.com/FanzOfLenaZavaroni)
 
 
+* []()
+* []()
+* []()
 
-
-
-
-<ul class="sidenav" id="mobile-demo">
-<li><a href="#Coding"><i class="fa fa-code" aria-hidden="true"></i> Coding</a></li>
-<li><a href="#Github"><i class="fa fa-github" aria-hidden="true"></i> Github</a></li>
-<li><a href="#Google"><i class="fa fa-google" aria-hidden="true"></i> Google</a></li>
-<li><a href="#Graphics"><i class="fa fa-file-image-o" aria-hidden="true"></i> Graphics</a></li>
-<li><a href="#Lifestyle"><i class="fa fa-users" aria-hidden="true"></i> Lifestyle</a></li>
-<li><a href="#Music"><i class="fa fa-music" aria-hidden="true"></i> Music</a></li>
-<li><a href="#Poetry"><i class="fa fa-comment-o" aria-hidden="true"></i> Poetry</a></li>
-<li><a href="#Storage"><i class="fa fa-archive" aria-hidden="true"></i> Storage</a></li>
-<li><a href="#TVRadio"><i class="fa fa-television" aria-hidden="true"></i> <i class="fa fa-microphone" aria-hidden="true"></i> TV & Radio</a></li>
-<li><a href="#YouTube"><i class="fa fa-youtube" aria-hidden="true"></i> YouTube</a></li>
-</ul>
-
-<main class="Main-Default">
-<article>
-<div class="row">
-<div class="col s12 m8 offset-m2 l6 offset-l3">
-<a id="Coding"></a>
-<div class="card">
-<div class="card-content flow-text">
-<div class="card-title">
-<h4><i class="fa fa-code" aria-hidden="true"></i> Coding</h4>
-</div>
-<ul class="browser-default">
-<li><b>Coding playground</b></li>
-<ul class="browser-default">
-<li><a href="https://codepen.io/Robcamstone">Codepen: Robcamstone</a></li>
-<li><a href="http://cssdeck.com/user/Robcamstone">CSS Deck: Robcamstone</a></li>
-<li><a href="https://jsfiddle.net">JSFiddle</a></li>
-<li><a href="http://materializecss.com">Materialize CSS</a></li>
-</ul>
-<li><b>Online Tools</b></li>
-<ul class="browser-default">
-<li><a href="https://calculateaspectratio.com">Aspect Ratio Calculator</a></li>
-<li><a href="http://www.brokenlinkcheck.com">Broken Link Checker</a></li>
-<li><a href="https://developers.facebook.com/tools/debug/sharing">Facebook for Developers: Sharing Debugger</a></li>
-<li><a href="http://fontawesome.io/icons">Font Awesome, the iconic font and CSS toolkit</a></li>
-<li><a href="https://www.freeformatter.com/">Free Online Tools For Developers</a></li>
-<li><a href="https://www.ascii.cl/htmlcodes.htm">HTML Codes Table</a></li>
-<li><a href="https://stackexchange.com/users/11999151/robcamstone">Stack Exchange: Robcamstone</a></li>
-<li><a href="https://cards-dev.twitter.com/validator">Twitter Card Validator</a></li>
-<li><a href="https://www.xml-sitemaps.com">XML-Sitemaps</a></li>
-</ul>
-<li><b>Stylish Scripts</b></li>
-<ul class="browser-default">
-<li><a href="/Stylish/Facebook/Facebook-Fix-profile-photo-being-obscured-by-cover-photo.html">Facebook: Fix profile photo being obscured by cover photo</a></li>
-</ul></ul>
-</div></div></div>
 
 <div class="col s12 m8 offset-m2 l6 offset-l3">
-<a id="Github"></a>
+<a id=""></a>
 <div class="card">
 <div class="card-content flow-text">
 <div class="card-title">
 <h4><i class="fa fa-github" aria-hidden="true"></i> Github</h4>
 </div>
 <ul class="browser-default">
-<li><b>Profile</b></li>
+<li><b></b></li>
 <ul class="browser-default">
-<li><a href="https://github.com/Robcamstone">Robcamstone</a></li>
-<li><a href="https://github.com/FanzOfLenaZavaroni">Fanz of Lena Zavaroni</a></li>
-<li><a href="https://github.com/FanzOfLucyWorsley">Fanz of Lucy Worsley</a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
 </ul>
 <li><b>Repositories</b></li>
 <ul class="browser-default">
