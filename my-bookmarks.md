@@ -1,6 +1,7 @@
 ---
 layout: page
 title: My Bookmarks
+description: List of Bookmarks I use on a daily bases.
 permalink: /my-bookmarks/index.html
 ---
 
