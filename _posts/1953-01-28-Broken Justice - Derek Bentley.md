@@ -6,10 +6,10 @@ image: /assets/Execution-Innocent-Derek-Bentley-4.jpg
 categories: music
 ---
 
-> ![Derek Bentley](/assets/Execution-Innocent-Derek-Bentley-4.jpg |width-360)
+> ![Derek Bentley](/assets/Execution-Innocent-Derek-Bentley-4.jpg |width=360)
 > Derek Bentley
 
-> ![Derek Bentley](/assets/derekbentley4JPG.jpg |width-360)
+> ![Derek Bentley](/assets/derekbentley4JPG.jpg |width=360)
 > A Victim of British Justice
 
 &#8212; On the headstone of Derek Bentley's grave.
