@@ -2,14 +2,14 @@
 layout: post
 title: Broken Justice - Derek Bentley
 description: Derek Bentley (30 June 1933 – 28 January 1953) was an English man who was hanged for the murder of a policeman, which was committed in the course of a burglary attempt.
-image: /assets/Execution-Innocent-Derek-Bentley-4.jpg
+image: /assets/images/broken-justice/derekbentley4JPG.jpg
 categories: Justice
 ---
 
-> ![Derek Bentley](/assets/Execution-Innocent-Derek-Bentley-4.jpg){: .full-width}
+> ![Derek Bentley](/assets/images/broken-justice/derekbentley4JPG.jpg){: .full-width}
 > Derek Bentley
 
-> ![Derek Bentley](/assets/derekbentley4JPG.jpg){: .full-width}
+> ![Derek Bentley](/assets/images/broken-justice/derekbentley4JPG.jpg){: .full-width}
 > A Victim of British Justice
 
 <style>.full-width {width:100%;}</style>
