@@ -122,4 +122,4 @@ permalink: /my-bookmarks/
    * [Fanz of Lena Zavaroni](https://www.youtube.com/channel/UCTcpqllbI3ir8AlUT3RnO_g)
 * ## Third Party Websites
    * [YouTube Copier - playlists](https://ctrlq.org/youtube/playlists)
-   * [Thumbnail Save](http://thumbnailsave.com Youtube)
+   * [Thumbnail Save](http://thumbnailsave.com)
