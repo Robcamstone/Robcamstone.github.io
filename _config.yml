@@ -38,7 +38,7 @@ minima:
 # this and add the path to the pages in order as they should show up
 # header_pages:
 #   - about.md
-#   - introduction.md
+#   - bookmarks.md
 #   - categories.md
 
 # Build settings

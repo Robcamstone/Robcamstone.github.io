@@ -1,8 +1,8 @@
 ---
 layout: page
-title: My Bookmarks
+title: Bookmarks
 description: List of Bookmarks I use on a daily bases.
-permalink: /my-bookmarks/
+permalink: /bookmarks/
 ---
 
 | [Coding](#coding-websites) | [Github](#github) | [Google](#google-links) | [Graphics](#graphics) | [Lifestyle](#lifestyle) | [Music](#music) | [Storage](#storage) | [TV&nbsp;&&nbsp;Radio](#tv--radio) | [YouTube](#youtube) |
