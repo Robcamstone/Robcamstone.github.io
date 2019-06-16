@@ -1,11 +1,7 @@
 ---
 layout: post
-categories: poem
+categories: [Poetry]
 ---
-
-# Ella Wheeler Wilcox (5 November 1850 – 30 October 1919)
-
-## Smiles
 
 > Smile a little, smile a little, As you go along, Not alone when life is pleasant, But when things go wrong. Care delights to see you frowning, Loves to hear you sigh; Turn a smiling face upon her, Quick the dame will fly.
 >

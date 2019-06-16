@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Broken Justice - Richard Campbell
-categories: Justice
+categories: [Broken Justice]
 ---
 
 ## DEATH IN CUSTODY

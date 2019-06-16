@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Broken Justice - Liddle Towers
-categories: Justice
+categories: [Broken Justice]
 ---
 
 > **Liddle Towers** (19 September 1936 - 9 February 1976) was an electrician and amateur boxing coach from Chester-le-Street, County Durham, England, who died following a spell in police custody in 1976.

@@ -1,6 +1,6 @@
 ---
 layout: post
-categories: poem
+categories: [Poetry, Robcamstone]
 ---
 
 # Robert Campbell Stonebanks

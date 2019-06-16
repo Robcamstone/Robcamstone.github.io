@@ -1,15 +1,11 @@
 ---
 layout: post
-categories: poem
+categories: [Poetry]
 ---
-
-# Robert Browning (7 May 1812 – 12 December 1889)
-
-## On Deck
 
 > There is nothing to remember in me, Nothing I ever said with a grace, Nothing I did that you care to see, Nothing I was that deserves a place in your mind, now I leave you, set you free.
 >
-> How strange it were if you had all of me, as I have all you in my heart and brain, You, whose least word brought gloom or glee Who never lifted the hand in vain - Will hold mine yet, from over the sea! 
+> How strange it were if you had all of me, as I have all you in my heart and brain, You, whose least word brought gloom or glee Who never lifted the hand in vain - Will hold mine yet, from over the sea!
 Strange, if a face, when you thought of me, rose like your own face present now, with eyes as dear in their due degree,
 >
 > Much such a mouth, and as bright a brow, Till you saw yourself, while you cried "Tis She!"
