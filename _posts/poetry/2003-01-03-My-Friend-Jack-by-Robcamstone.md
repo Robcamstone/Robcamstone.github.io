@@ -1,5 +1,8 @@
 ---
 layout: post
+title: My Friend Jack By Robcamstone
+description: A found poem based on the interactions between myself (Special Needs Nursery Nurse) and Jack (Pupil) at a school for children with autism where I use to work.
+image: /assets/images/RCS/RCS-200x200.jpg
 copyright: © Robert Campbell Stonebanks - January 3, 2003
 categories: [Poetry, Robcamstone]
 ---
