@@ -1,10 +1,8 @@
 ---
 layout: post
-title: Life's A Sham
+title: My review of Farncray Ltd Pharmacy
 categories: [2019, Review]
 ---
-
-**My review of Farncray Ltd Pharmacy:**
 
 > To day 20 June 2019  I Went to pick up my prescription they took over 1/2 hour looking in various places and could not locate it in the end I told them I was going to go and do my weekly shop and would come back afterwards.
 >
