@@ -19,6 +19,4 @@ categories: [2019, Review]
 > This pharmacy needs investigating and if need be, be shut down as they have show they are incompetent and try to place that incompetence on their customs and the are in my case responsible for add the stress I already feel when having to go out.
 >
 > They should be ashamed of the way they treat people.
-<cite></cite>
-
-<iframe src="https://www.google.com/maps/embed?pb=!1m10!1m8!1m3!1d2490.5894078832393!2d0.0977059!3d51.3738445!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sen!2suk!4v1561319110908!5m2!1sen!2suk" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+<cite>Robcamstone</cite>
