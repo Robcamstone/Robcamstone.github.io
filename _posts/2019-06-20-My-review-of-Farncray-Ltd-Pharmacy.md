@@ -1,6 +1,6 @@
 ---
 layout: post
-title: My review of Farncray Ltd Pharmacy
+title: My Review of Farncray Ltd Pharmacy
 categories: [2019, Review]
 ---
 
