@@ -1,7 +1,7 @@
 ---
 layout: post
 title: My Review of Farncray Ltd Pharmacy
-categories: [2019, Review]
+categories: [Reviews]
 ---
 
 > Today 20 June 2019 I Went to pick up my prescription they took over 1/2 hour looking in various places and could not locate it, in the end, I told them I was going to go and do my weekly shop and would come back afterwards.
@@ -23,4 +23,5 @@ categories: [2019, Review]
 > This pharmacy needs investigating and if need be, be shut down as they have shown they are incompetent and try to place that incompetence on their customs and in my case responsible for adding to the stress I already feel when having to go out.
 >
 > They should be ashamed of the way they treat people.
+
 <cite>Robcamstone</cite>
