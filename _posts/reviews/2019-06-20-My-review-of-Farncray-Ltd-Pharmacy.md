@@ -25,3 +25,6 @@ categories: [Reviews]
 > They should be ashamed of the way they treat people.
 
 <cite>Robcamstone</cite>
+
+**Google Map:**
+<span class="post-categories">[My Review of Farncray Ltd Pharmacy](https://www.google.com/maps/reviews/@51.3738445,0.0955172,17z/data=!3m1!4b1!4m5!14m4!1m3!1m2!1s110731384844099277338!2s0x47d8ac9c22d12afd:0x33bbf18f6d4b5cfd?hl=en-GB)</span>
