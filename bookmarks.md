@@ -113,7 +113,7 @@ permalink: /bookmarks/
    * [BBC Radio 2](http://www.bbc.co.uk/radio2/programmes/schedules)
    * [BBC Radio 3](http://www.bbc.co.uk/radio3/programmes/schedules)
    * [BBC Radio 4](http://www.bbc.co.uk/radio4/programmes/schedules)
-   * [BBC Radio 4 Exta](http://www.bbc.co.uk/radio4extra/programmes/schedules)
+   * [BBC Radio 4 Extra](http://www.bbc.co.uk/radio4extra/programmes/schedules)
 
 ## YouTube
 * **My Youtube Channels**
