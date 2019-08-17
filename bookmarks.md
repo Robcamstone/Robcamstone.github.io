@@ -80,13 +80,7 @@ permalink: /bookmarks/
    * [eBay](http://ebay.co.uk)
    * [PayPal](http://paypal.co.uk)
    * [zoom](https://www.zoom.co.uk)
-* **Social Networks:**
-   * [Facebook](https://www.facebook.com)
-      * [Robcamstone](https://www.facebook.com/robertstonebanks)
-      * [Fanz of Lucy Worsley](https://www.facebook.com/fanzoflucyworsley)
-      * [Fanz of Lena Zavaroni](https://www.facebook.com/fanzoflenazavaroni)
-      * [Pocket](https://getpocket.com)
-
+   
 ## Music
    * [45Cat: Robcamstone](http://www.45worlds.com/m/robcamstone)
    * [ALLMUSIC](https://www.allmusic.com/profile/robcamstone)
@@ -96,6 +90,9 @@ permalink: /bookmarks/
    * [Libre.fm: Robcamstone](https://libre.fm/user/Robcamstone)
    * [Listen Brainz: Robcamstone](https://listenbrainz.org/user/Robcamstone)
    * [Soundcloud: Robcamstone](https://soundcloud.com/robcamstone)
+
+## Sharing
+   * [Pocket](https://getpocket.com)
 
 ## Storage
    * [iCloud](https://www.icloud.com)
