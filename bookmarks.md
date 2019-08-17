@@ -59,6 +59,7 @@ permalink: /bookmarks/
    * [Webpage To PNG Online](http://www.pdfconvertonline.com/webpage-to-png-online.html)
 * **Social Sharing of Photos:**
    * [Instagram: Robcamstone](https://www.instagram.com/robcamstone)
+   * [Pinterest: Robcamstone](https://www.pinterest.co.uk/robcamstone/)
    * [We Heart It: Robcamstone](https://weheartit.com/Robcamstone)
 * **Stock Photos:**
    * [Alamy](http://www.alamy.com)
