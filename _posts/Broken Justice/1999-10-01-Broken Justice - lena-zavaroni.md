@@ -2,7 +2,7 @@
 layout: post
 title: Broken Justice - Lena Zavaroni
 description: Lena Zavaroni was born on November 4, 1963 in Rankin Memorial Hospital, Greenock, Inverclyde, Scotland, United Kingdom to Victor Zavaroni (1939) and Hilda Catherine (Jordan) Zavaroni (c1940-1989).
-image: https://fanzoflenazavaroni.github.io//assets/images/lena/LZ-01-200x200.png
+image: assets/images/lena/LZ-01-200x200.png
 image-caption: Lena Zavaroni
 categories: [Broken Justice]
 ---
