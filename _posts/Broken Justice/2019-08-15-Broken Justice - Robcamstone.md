@@ -29,7 +29,9 @@ categories: [Broken Justice]
 > Let us take the content watermaker it and claim it as our own, that form of fandom suck and kills fandom, it does not extend it.
 >
 > Hopefully at sometime during today Facebook will re-instate the post I have contacted them and asked them to explain the taking of it down and what section is abusive and of cause to re-instate it.
->
+
+<cite>Fanz of Lena Zavaroni (Robcamstone), 15 Aug 2019, 02:00</cite>
+
 > ![](https://fanz-of-lena-zavaroni.github.io/assets/images/theatres/1976-08-15-sunday-startime.jpg)
 >
 > #OnThisDay 15 August 1976 with #LenaZavaroni.
@@ -39,4 +41,4 @@ categories: [Broken Justice]
 
 > Facebook has refused to respond to my communications
 
-<cite>Fanz of Lena Zavaroni (Robcamstone), 15 Aug 2019, 02:00</cite>
+<cite>Fanz of Lena Zavaroni (Robcamstone), 18 Aug 2019, 14:50</cite>
