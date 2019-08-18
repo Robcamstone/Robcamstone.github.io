@@ -251,7 +251,7 @@ The service took place at The [Roman Catholic Church of St Augustine](https://he
 > * How much focus was given to the long term mental health of Lena Zavaroni and the effects of the abuse she had received throughout her live.
 > * Why has there never been a full investigation into the life and death of Lena Zavaroni?
 
-<cite>[Robcamstone](https://www.facebook.com/fanzoflenazavaroni)</cite>
+<cite>Robcamstone</cite>
 
 **Related Website:**
 <span class="post-categories">[Fanz of Lena Zavaroni](https://fanzoflenazavaroni.github.io)</span>
