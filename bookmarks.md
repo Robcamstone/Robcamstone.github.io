@@ -28,15 +28,15 @@ permalink: /bookmarks/
 * **Profile:**
    * [Robcamstone](https://github.com/Robcamstone)
    * [Fanz of Lucy Worsley](https://github.com/FanzOfLucyWorsley)
-   * [Fanz of Lena Zavaroni](https://github.com/fanz-of-lena-zavaroni)
+   * [Fanz of Lena Zavaroni](https://github.com/fanzoflenazavaroni)
 * **Repositories:**
    * [Robcamstone.github.io](https://github.com/Robcamstone/Robcamstone.github.io)
    * [fanzoflucyworsley.github.io](https://github.com/FanzOfLucyWorsley/fanzoflucyworsley.github.io)
-   * [fanzoflenazavaroni.github.io](https://github.com/fanz-of-lena-zavaroni/fanz-of-lena-zavaroni.github.io)
+   * [fanzoflenazavaroni.github.io](https://github.com/fanzoflenazavaroni/fanzoflenazavaroni.github.io)
 * **GitPages:**
    * [robcamstone.github.io](https://robcamstone.github.io)
    * [fanzoflucyworsley.github.io](https://fanzoflucyworsley.github.io)
-   * [fanzoflenazavaroni.github.io](https://fanz-of-lena-zavaroni.github.io)
+   * [fanzoflenazavaroni.github.io](https://fanzoflenazavaroni.github.io)
 
 ## Google Links
 * [Google](https://www.google.com/?gfe_rd=cr&dcr=0&ei=bzHaWeOpIsmT8QfX1I2wDQ&gws_rd=cr&fg=1)
@@ -80,7 +80,7 @@ permalink: /bookmarks/
    * [eBay](http://ebay.co.uk)
    * [PayPal](http://paypal.co.uk)
    * [zoom](https://www.zoom.co.uk)
-   
+
 ## Music
    * [45Cat: Robcamstone](http://www.45worlds.com/m/robcamstone)
    * [ALLMUSIC](https://www.allmusic.com/profile/robcamstone)
