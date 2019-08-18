@@ -9,20 +9,20 @@ categories: [Broken Justice]
 
 **Lena Hilda Zavaroni** was born on 4 November 1963 in Rankin Memorial Hospital, Greenock, Inverclyde, Scotland, United Kingdom to Victor Zavaroni (1939) and Hilda Catherine (Jordan) Zavaroni (c1940-1989).
 
-![Rankin Memorial Hospital](https://fanz-of-lena-zavaroni.github.io//assets/images/locations/Rankin-Memorial-Hospital.jpg){: .full-width}
+![Rankin Memorial Hospital](https://fanzoflenazavaroni.github.io//assets/images/locations/Rankin-Memorial-Hospital.jpg){: .full-width}
 <cite>Archive Photo of the Rankin Memorial Hospital</cite>
 
 Early Life: Lena grew up in the small town of Rothesay on the Isle of Bute.
 
-![Rothesay Pier](https://fanz-of-lena-zavaroni.github.io//assets/images/locations/rothesay_pier_-_geographorguk_-_31029_36228796816_o.jpg){: .full-width}
+![Rothesay Pier](https://fanzoflenazavaroni.github.io//assets/images/locations/rothesay_pier_-_geographorguk_-_31029_36228796816_o.jpg){: .full-width}
 <cite>Rothesay Pier</cite>
 
 Her parents owned a fish and chip shop called Zavaroni's.
 
-![Zavaroni's](https://fanz-of-lena-zavaroni.github.io//assets/images/locations/4014680129_8fcf18749c_o.jpg){: .full-width}
+![Zavaroni's](https://fanzoflenazavaroni.github.io//assets/images/locations/4014680129_8fcf18749c_o.jpg){: .full-width}
 <cite>One of three Restaurants named Zavaroni's</cite>
 
-![Lena Zavaroni as a toddler](https://fanz-of-lena-zavaroni.github.io//assets/images/Lena/LZ-01.jpg){: .full-width}
+![Lena Zavaroni as a toddler](https://fanzoflenazavaroni.github.io//assets/images/Lena/LZ-01.jpg){: .full-width}
 <cite>Lena Zavaroni as a toddler</cite>
 
 Her sister Carla was born on 22 March 1966.
@@ -55,7 +55,7 @@ The start of the two paths her life would take One to Stardom the other to Anore
 
 Lena moved to London to stay with her managers Dorothy and Phil Solomon.
 
-![Lena Zavaroni's managers Dorothy and Phil Solomon](https://fanz-of-lena-zavaroni.github.io//assets/images/locations/phil-solomon-music-executive-f7f9fd3e-f50c-4373-bf79-00e9b01dded.webp){: .full-width}
+![Lena Zavaroni's managers Dorothy and Phil Solomon](https://fanzoflenazavaroni.github.io//assets/images/locations/phil-solomon-music-executive-f7f9fd3e-f50c-4373-bf79-00e9b01dded.webp){: .full-width}
 <cite>Dorothy and Phil Solomon</cite>
 
 She had to adapt to a new way of life; such as discovering lifts, and traffic lights and learning about napkins for the first time.
@@ -218,16 +218,16 @@ But the reality of her death is not as straightforward as her death certificate 
 
 The service took place at The [Roman Catholic Church of St Augustine](https://hertfordshirechurches.wordpress.com/2013/04/21/st-augustine-hoddesdon-roman-catholic), Presbytery, High Street, Hoddesdon, Herts, EN11&nbsp;8DS.
 
-![The Roman Catholic Church of St Augustine, Presbytery, High Street, Hoddesdon, Herts EN11 8DS](https://fanz-of-lena-zavaroni.github.io//assets/images/locations/hoddesdon_st_augustine_rc200413_21.jpg){: .full-width}
+![The Roman Catholic Church of St Augustine, Presbytery, High Street, Hoddesdon, Herts EN11 8DS](https://fanzoflenazavaroni.github.io//assets/images/locations/hoddesdon_st_augustine_rc200413_21.jpg){: .full-width}
 <cite>The Roman Catholic Church of St Augustine, Presbytery, High Street, Hoddesdon, Herts EN11 8DS</cite>
 
-![Farewell to star Lena](https://fanz-of-lena-zavaroni.github.io//assets/images/475922_zavaroni_coffin300.jpg){: .full-width}
+![Farewell to star Lena](https://fanzoflenazavaroni.github.io//assets/images/475922_zavaroni_coffin300.jpg){: .full-width}
 <cite>[BBC News | Wales | Farewell to star Lena](http://news.bbc.co.uk/1/hi/wales/476065.stm)</cite>
 
-![Hoddesdon Cemetery, Lena Zavaroni's Grave.](https://fanz-of-lena-zavaroni.github.io//assets/images/locations/Lena_Zavaroni_grave_Hoddesdon.jpg){: .full-width}
+![Hoddesdon Cemetery, Lena Zavaroni's Grave.](https://fanzoflenazavaroni.github.io//assets/images/locations/Lena_Zavaroni_grave_Hoddesdon.jpg){: .full-width}
 <cite>Hoddesdon Cemetery, Lena Zavaroni's Grave</cite>
 
-![Hoddesdon Cemetery, Lena Zavaroni's Grave.](https://fanz-of-lena-zavaroni.github.io//assets/images/locations/8402392_1511825377.jpg){: .full-width}
+![Hoddesdon Cemetery, Lena Zavaroni's Grave.](https://fanzoflenazavaroni.github.io//assets/images/locations/8402392_1511825377.jpg){: .full-width}
 <cite>Hoddesdon Cemetery, Lena Zavaroni's Grave</cite>
 
 # Inquest: A judicial inquiry to ascertain the facts relating to an incident, such as a death
@@ -254,4 +254,4 @@ The service took place at The [Roman Catholic Church of St Augustine](https://he
 <cite>[Robcamstone](https://www.facebook.com/fanzoflenazavaroni)</cite>
 
 **Related Website:**
-<span class="post-categories">[Fanz of Lena Zavaroni](https://fanz-of-lena-zavaroni.github.io)</span>
+<span class="post-categories">[Fanz of Lena Zavaroni](https://fanzoflenazavaroni.github.io)</span>
