@@ -101,17 +101,17 @@ permalink: /bookmarks/
 
 ## TV & Radio
 * **Television**
-   * [BBC One](http://www.bbc.co.uk/bbcone/programmes/schedules/london)
-   * [BBC Two](http://www.bbc.co.uk/bbctwo/programmes/schedules/england)
-   * [BBC Three - Online](http://www.bbc.co.uk/bbcthree)
-   * [BBC Four](http://www.bbc.co.uk/bbcfour/programmes/schedules)
-   * [CBBC](http://www.bbc.co.uk/cbbc/programmes/schedules)
-   * [BBC News 24](http://www.bbc.co.uk/bbcnews/programmes/schedules)
+   * [BBC One](https://www.bbc.co.uk/schedules/p00fzl6p)
+   * [BBC Two](https://www.bbc.co.uk/schedules/p00fzl97)
+   * [BBC Three - Online](https://www.bbc.co.uk/bbcthree)
+   * [BBC Four](https://www.bbc.co.uk/schedules/p00fzl6b)
+   * [CBBC](https://www.bbc.co.uk/schedules/p00fzl9r)
+   * [BBC News 24](https://www.bbc.co.uk/schedules/p00fzl6g)
 * **Radio**
-   * [BBC Radio 2](http://www.bbc.co.uk/radio2/programmes/schedules)
-   * [BBC Radio 3](http://www.bbc.co.uk/radio3/programmes/schedules)
-   * [BBC Radio 4](http://www.bbc.co.uk/radio4/programmes/schedules)
-   * [BBC Radio 4 Extra](http://www.bbc.co.uk/radio4extra/programmes/schedules)
+   * [BBC Radio 2](https://www.bbc.co.uk/schedules/p00fzl8v)
+   * [BBC Radio 3](https://www.bbc.co.uk/schedules/p00fzl8t)
+   * [BBC Radio 4](https://www.bbc.co.uk/schedules/p00fzl7j)
+   * [BBC Radio 4 Extra](https://www.bbc.co.uk/schedules/p00fzl7l)
 
 ## YouTube
 * **My Youtube Channels**
