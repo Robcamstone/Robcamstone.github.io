@@ -16,6 +16,6 @@ categories: [Broken Justice]
    * [Campaign For Truth](https://fanzoflenazavaroni.github.io/biography/lena-zavaroni#campaign-for-truth)
    * [Bronchopneumonia](https://fanzoflenazavaroni.github.io/biography/lena-zavaroni#bronchopneumonia)
    * [Death](https://fanzoflenazavaroni.github.io/biography/lena-zavaroni#death)
-   * [Inquest](https://fanzoflenazavaroni.github.io/biography/lena-zavaroni#inquest)
+   * [Inquest: ITN Source](https://fanzoflenazavaroni.github.io/itn/1999/10/08/ITN-source-lena-zavaroni-inquest-due-to-end.html)
    * [](https://fanzoflenazavaroni.github.io/biography/lena-zavaroni#)
 
