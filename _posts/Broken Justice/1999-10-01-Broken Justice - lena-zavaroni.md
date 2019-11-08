@@ -20,3 +20,10 @@ categories: [Broken Justice]
 * [Stealing in the Limelight; Why Do Rich and Famous Go Shoplifting?](https://fanzoflenazavaroni.github.io/onthisday/11/11-09.html)
 * [Lena Zavaroni Behind The Facade Service Shenanigans by Dr Sally Baker](http://www.drsallybaker.com/tag/lena-zavaroni/#primary)
 
+<style>
+.dt-published {display: none;}
+.post-meta:after {content: "4 November 1963 - 1 October 1999";}
+.height-adjust1 {width:auto; height:350px;}
+.height-adjust2 {width:auto; height:307px;}
+</style>
+
