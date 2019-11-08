@@ -17,5 +17,5 @@ categories: [Broken Justice]
    * [Bronchopneumonia](https://fanzoflenazavaroni.github.io/biography/lena-zavaroni#bronchopneumonia)
    * [Death](https://fanzoflenazavaroni.github.io/biography/lena-zavaroni#death)
    * [Inquest: ITN Source](https://fanzoflenazavaroni.github.io/itn/1999/10/08/ITN-source-lena-zavaroni-inquest-due-to-end.html)
-   * [](https://fanzoflenazavaroni.github.io/biography/lena-zavaroni#)
+* [Stealing in the Limelight; Why Do Rich and Famous Go Shoplifting?](https://fanzoflenazavaroni.github.io/onthisday/11/11-09.html)
 
