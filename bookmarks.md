@@ -95,7 +95,6 @@ permalink: /bookmarks/
 
 ## Storage
    * [iCloud](https://www.icloud.com)
-   * [MEGA](https://mega.nz)
    * [OneDrive](http://onedrive.live.com)
 
 ## TV & Radio
