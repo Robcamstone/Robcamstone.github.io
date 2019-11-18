@@ -76,14 +76,15 @@ permalink: /bookmarks/
    * [My Clarion Home](https://www.myclarionhome.com)
 * **Shopping:**
    * [Argos](http://www.argos.co.uk)
-   * [Book Depository](https://www.bookdepository.com/)
    * [eBay](http://ebay.co.uk)
    * [PayPal](http://paypal.co.uk)
+   * [Wordery](https://wordery.com)
    * [zoom](https://www.zoom.co.uk)
 
 ## Music
    * [45Cat: Robcamstone](http://www.45worlds.com/m/robcamstone)
    * [ALLMUSIC](https://www.allmusic.com/profile/robcamstone)
+   * [IMDb: Robcamstone](http://www.imdb.com/user/ur29493739)
    * [Music Brainz: Robcamstone](https://musicbrainz.org/user/Robcamstone)
    * [Last.fm: Robcamstone](https://www.last.fm/user/Robcamstone)
    * [Libre.fm: Robcamstone](https://libre.fm/user/Robcamstone)
@@ -95,6 +96,7 @@ permalink: /bookmarks/
 
 ## Storage
    * [iCloud](https://www.icloud.com)
+   * [MEGA](https://mega.nz)
    * [OneDrive](http://onedrive.live.com)
 
 ## TV & Radio
