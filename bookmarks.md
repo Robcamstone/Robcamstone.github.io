@@ -45,7 +45,7 @@ permalink: /bookmarks/
 * [Google Drive](https://drive.google.com/drive)
 * [Google Mail](http://gmail.com)
 * [Google Maps](https://www.google.co.uk/maps)
-   * [My Map: Fanz of Lena Zavaroni](https://www.google.com/maps/d/u/0/viewer?hl=en&mid=1D1D0ERV_FQMNb9XZzJ-J3yUlK8aI4vhI&ll=55.94167604031339%2C-4.793413585008807&z=19)
+   * [My Google Earth: Fanz of Lena Zavaroni](https://earth.google.com/web/@55.88889,-4.9295,-2.06676354a,27071.89860342d,35y,0h,0t,0r/data=MicKJQojCiExVDN3b2VqeXlhNFJ2V2V4SDBrWDZ5d1hHVGs1Zjl2bzk6AwoBMA?authuser=0)
 * [Google Photos](https://photos.google.com)
 * [Google Play Music](https://play.google.com/music/listen?authuser&u=0#/albums)
 * [Google Scholar](https://scholar.google.com)
