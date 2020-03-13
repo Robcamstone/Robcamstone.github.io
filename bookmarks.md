@@ -95,6 +95,7 @@ permalink: /bookmarks/
    * [Pocket](https://getpocket.com)
 
 ## Storage
+   * [4shared](https://www.4shared.com/account/home.jsp#dir=FXDapMs1)
    * [iCloud](https://www.icloud.com)
    * [MEGA](https://mega.nz)
    * [OneDrive](http://onedrive.live.com)
