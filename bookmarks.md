@@ -98,6 +98,7 @@ permalink: /bookmarks/
    * [iCloud](https://www.icloud.com)
    * [MEGA](https://mega.nz)
    * [OneDrive](http://onedrive.live.com)
+   * [Yandex Disk](https://disk.yandex.com/client/disk)
 
 ## TV & Radio
 * **Television**
