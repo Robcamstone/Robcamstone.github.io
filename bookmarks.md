@@ -96,6 +96,7 @@ permalink: /bookmarks/
 
 ## Storage
    * [4shared](https://www.4shared.com/account/home.jsp#dir=FXDapMs1)
+   * [Degoo](https://app.degoo.com/files/0)
    * [iCloud](https://www.icloud.com)
    * [MEGA](https://mega.nz)
    * [OneDrive](http://onedrive.live.com)
