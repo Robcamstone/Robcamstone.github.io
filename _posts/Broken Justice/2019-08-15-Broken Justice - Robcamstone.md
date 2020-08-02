@@ -35,10 +35,16 @@ categories: [Broken Justice]
 > ![](https://fanz-of-lena-zavaroni.github.io/assets/images/theatres/1976-08-15-sunday-startime.jpg)
 >
 > #OnThisDay 15 August 1976 with #LenaZavaroni.
-> [It's Sunday Startime at the ABC Theatre, Great Yarmouth](https://fanz-of-lena-zavaroni.github.io/theatre/great%20yarmouth/1976/08/15/sunday-startime.html)
+> [It's Sunday Startime at the ABC Theatre, Great Yarmouth](https://fanzoflenazavaroni.github.io/theatre/great%20yarmouth/1976/08/15/sunday-startime.html)
 
 <cite>Fanz of Lena Zavaroni (Robcamstone), 15 Aug 2019, 02:00</cite>
 
 > Facebook has refused to respond to my communications
 
 <cite>Fanz of Lena Zavaroni (Robcamstone), 18 Aug 2019, 14:50</cite>
+
+### Update
+> Once a month I contact Facebook on this matter and every month they still continue to ignore me.
+>
+> Facebook! Part of the cancel culture towards innocent individuals.
+
