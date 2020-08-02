@@ -4,7 +4,7 @@ title: Broken Justice - Robert Campbell Stonebanks
 categories: [Broken Justice]
 ---
 
-## Tried, Judged and Condemned by Facebook
+### Tried, Judged and Condemned by Facebook
 
 > Missing OnThisDay some sad individual(s) have reported this post as abusive.
 >
@@ -32,9 +32,9 @@ categories: [Broken Justice]
 
 <cite>Fanz of Lena Zavaroni (Robcamstone), 15 Aug 2019, 02:00</cite>
 
-> ![](https://fanz-of-lena-zavaroni.github.io/assets/images/theatres/1976-08-15-sunday-startime.jpg)
->
-> #OnThisDay 15 August 1976 with #LenaZavaroni.
+> ![](https://fanzoflenazavaroni.github.io/assets/images/theatres/1976-08-15-sunday-startime.jpg)
+
+### OnThisDay 15 August 1976 with #LenaZavaroni.
 > [It's Sunday Startime at the ABC Theatre, Great Yarmouth](https://fanzoflenazavaroni.github.io/theatre/great%20yarmouth/1976/08/15/sunday-startime.html)
 
 <cite>Fanz of Lena Zavaroni (Robcamstone), 15 Aug 2019, 02:00</cite>
