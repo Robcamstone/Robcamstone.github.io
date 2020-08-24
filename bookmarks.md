@@ -47,7 +47,6 @@ permalink: /bookmarks/
 * [Google Maps](https://www.google.co.uk/maps)
    * [My Google Earth: Fanz of Lena Zavaroni](https://earth.google.com/web/@55.88889,-4.9295,-2.06676354a,27071.89860342d,35y,0h,0t,0r/data=MicKJQojCiExVDN3b2VqeXlhNFJ2V2V4SDBrWDZ5d1hHVGs1Zjl2bzk6AwoBMA?authuser=0)
 * [Google Photos](https://photos.google.com)
-* [Google Play Music](https://play.google.com/music/listen?authuser&u=0#/albums)
 * [Google Scholar](https://scholar.google.com)
 * [Search Console - Dashboard](https://www.google.com/webmasters/tools/dashboard?hl=en&authuser=0&siteUrl=https://fanzoflenazavaroni.github.io)
 
@@ -126,3 +125,8 @@ permalink: /bookmarks/
 * **Third Party Websites**
    * [YouTube Copier - playlists](https://ctrlq.org/youtube/playlists)
    * [Thumbnail Save](http://thumbnailsave.com)
+   
+## YouTube Music
+* **My Youtube Music Channels**
+* [Robcamstone](https://music.youtube.com/channel/UCxGas6kcIvNZVIpZfTPKLug)
+
