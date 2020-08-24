@@ -129,4 +129,7 @@ permalink: /bookmarks/
 ## YouTube Music
 * **My Youtube Music Channels**
    * [Robcamstone](https://music.youtube.com/channel/UCxGas6kcIvNZVIpZfTPKLug)
+   * [Bonnie Langford](https://music.youtube.com/channel/UCOkMlk-r6RflBEMiEW8Xyqg)
+   * [Fanz of Lucy Worsley](https://music.youtube.com/channel/UC8L4vWvQV3MUu8FrQqGiYvA)
+   * [Fanz of Lena Zavaroni](https://music.youtube.com/channel/UCTcpqllbI3ir8AlUT3RnO_g)
 
