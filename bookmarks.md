@@ -63,7 +63,7 @@ permalink: /bookmarks/
 * **Stock Photos:**
    * [Alamy](http://www.alamy.com)
    * [Getty Images](http://www.gettyimages.co.uk)
-   * [Mirror-Photos](http://www.mirror-photos.co.uk)
+   * [Media Storehouse](https://www.mediastorehouse.com/)
    * [Mirrorpix](https://www.mirrorpix.com)
    * [Pixabay](https://pixabay.com/en/users/Robcamstone-8863342)
 
