@@ -3,32 +3,21 @@ layout: post
 categories: [Poetry, Robcamstone]
 ---
 
-# Robert Campbell Stonebanks
+<figure class="fig1">
+<strong>Shattered</strong>
+<blockquote>
+<p>diet managers</p>
+<p>age ten and no clothes to fit</p>
+<p>opp knocks to brain op</p>
+<p>only the talent mattered</p>
+<p>so that’s why the child shattered</p>
+</blockquote>
+<cite>Tanka Poem by Robcamstone in memory of <a href="https://fanzoflenazavaroni.github.io/biography/lena-zavaroni">Lena Zavaroni</a></cite>
+</figure>
 
-## Shattered (version 1)
+{: .clear}
 
-> The diet Managers
->
-> Age ten and no clothes to fit
->
-> Opp Knocks to Brain Op
->
-> Only the talent mattered
->
-> So that’s why the child shattered
+<style>
+.fig1 {float:left; width:100%;}
+</style>
 
-&#8212; A Tanka Poem by Robcamstone
-
-## Shattered (version 1)
-
-> You Managed her diet
->
-> Age ten and no clothes to fit
->
-> Opp Knocks to Brain Op
->
-> Only the talent mattered
->
-> So that’s why the child shattered
-
-&#8212; A Tanka Poem by Robcamstone

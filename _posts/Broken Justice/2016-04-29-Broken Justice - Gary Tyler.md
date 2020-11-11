@@ -14,8 +14,23 @@ categories: [Broken Justice]
 
 &#8212; <a href="https://en.wikipedia.org/wiki/Gary_Tyler">Wikipedia</a>
 
-<iframe width="280" height="280" src="https://www.youtube.com/embed/YAQ573AFp60" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<figure class="fig1">
+<div class="responsive-video"><iframe width="480" height="360" src="https://www.youtube-nocookie.com/embed/YAQ573AFp60" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+</figure>
 
-<iframe width="280" height="280" src="https://www.youtube.com/embed/GLd3w-R1B9I" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<figure class="fig2">
+<div class="responsive-video"><iframe width="480" height="360" src="https://www.youtube-nocookie.com/embed/GLd3w-R1B9I" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+</figure>
 
-<iframe width="280" height="280" src="https://www.youtube.com/embed/Q7VlzfVfBOM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+{: .clear}
+
+<style>
+.fig1 {float:left; width:49%;}
+
+.fig2 {float:right; width:49%;}
+
+@media only screen and (max-width: 700px) {
+.fig1, .fig2 {float:left; width:100%;}
+}
+</style>
+

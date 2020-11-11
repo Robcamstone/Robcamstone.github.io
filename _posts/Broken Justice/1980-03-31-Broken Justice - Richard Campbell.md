@@ -10,8 +10,17 @@ categories: [Broken Justice]
 
 &#8212; <a href="https://api.parliament.uk/historic-hansard/commons/1980/aug/08/richard-campbell-death-in-custody">Parliament UK</a>
 
-<iframe width="280" height="280" src="https://www.youtube.com/embed/5NhYyfQMTQQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<br/>
+<figure class="fig1">
+<div class="responsive-video"><iframe width="480" height="360" src="https://www.youtube-nocookie.com/embed/5NhYyfQMTQQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+</figure>
+
+{: .clear}
+
 > Justice would be better served if it was not blind.
 
 &#8212; Robert Campbell Stonebanks (Robcamstone)
+
+<style>
+.fig1 {float:left; width:100%;}
+</style>
+

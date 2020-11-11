@@ -8,14 +8,37 @@ categories: [Broken Justice]
 
 &#8212; [Wikipedia](https://en.wikipedia.org/wiki/Liddle_Towers)
 
-<iframe width="360" height="360" src="https://www.youtube.com/embed/YqbsW5hE8v8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<figure class="fig1">
+<div class="responsive-video"><iframe width="480" height="360" src="https://www.youtube-nocookie.com/embed/YqbsW5hE8v8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+</figure>
 
-<iframe width="360" height="360" src="https://www.youtube.com/embed/lSOHkW_MnPc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<figure class="fig2">
+<div class="responsive-video"><iframe width="480" height="360" src="https://www.youtube-nocookie.com/embed/lSOHkW_MnPc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+</figure>
 
-<iframe width="360" height="360" src="https://www.youtube.com/embed/qG_Ca1XWAmU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+{: .clear}
 
-<iframe width="360" height="360" src="https://www.youtube.com/embed/Pc6km-kUq7E" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<br/>
+<figure class="fig1">
+<div class="responsive-video"><iframe width="480" height="360" src="https://www.youtube-nocookie.com/embed/qG_Ca1XWAmU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+</figure>
+
+<figure class="fig2">
+<div class="responsive-video"><iframe width="480" height="360" src="https://www.youtube-nocookie.com/embed/Pc6km-kUq7E" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+</figure>
+
+{: .clear}
+
 > Justice would be better served if it was not blind.
 
 &#8212; Robert Campbell Stonebanks (Robcamstone)
+
+<style>
+.fig1 {float:left; width:49%;}
+
+.fig2 {float:right; width:49%;}
+
+@media only screen and (max-width: 700px) {
+.fig1, .fig2 {float:left; width:100%;}
+}
+</style>
+
