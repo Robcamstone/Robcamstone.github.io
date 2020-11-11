@@ -4,3 +4,4 @@ _site
 .comments
 Gemfile.lock
 Gemfile
+.jekyll-cache/

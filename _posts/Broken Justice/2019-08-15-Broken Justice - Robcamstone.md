@@ -54,7 +54,7 @@ I contacted Facebook and then the whole website was and is blocked because it do
 >
 > Facebook! Part of the cancel culture towards innocent individuals.
 >
-> Well as many fans know this website has continued without Facebook so your lose Facebook as I know via Google Search Analysis for the website I am still getting visitors.
+> Well as many fans know this website has continued without Facebook so your lose Facebook as I know via Google Analysis for the website I am still getting visitors from around the world.
 
 <cite>Robcamstone</cite>
 
