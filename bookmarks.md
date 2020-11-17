@@ -10,7 +10,7 @@ permalink: /bookmarks/
 | [Github](#github) | [Lifestyle](#lifestyle) | [TV&nbsp;&&nbsp;Radio](#tv--radio) |
 | [Google](#google-links) | [Music](#music) | [YouTube](#youtube) |
 
-## Coding Websites
+### Coding Websites
 * **Online Tools:**
    * [Aspect Ratio Calculator](https://calculateaspectratio.com)
    * [Broken Link Checker](http://www.brokenlinkcheck.com)
@@ -24,7 +24,7 @@ permalink: /bookmarks/
    * [CSS Deck: Robcamstone](http://cssdeck.com/user/Robcamstone)
    * [JSFiddle](https://jsfiddle.net)
 
-## Github
+### Github
 * **Profile:**
    * [Robcamstone](https://github.com/Robcamstone)
    * [Fanz of Lucy Worsley](https://github.com/FanzOfLucyWorsley)
@@ -38,7 +38,7 @@ permalink: /bookmarks/
    * [fanzoflucyworsley.github.io](https://fanzoflucyworsley.github.io)
    * [fanzoflenazavaroni.github.io](https://fanzoflenazavaroni.github.io)
 
-## Google Links
+### Google Links
 * [Google](https://www.google.com/?gfe_rd=cr&dcr=0&ei=bzHaWeOpIsmT8QfX1I2wDQ&gws_rd=cr&fg=1)
    * [Google Analytics](https://analytics.google.com)
    * [Google cloudprint](https://www.google.com/cloudprint/#printers)
@@ -51,7 +51,7 @@ permalink: /bookmarks/
 * [Google Scholar](https://scholar.google.com)
 * [Search Console - Dashboard](https://www.google.com/webmasters/tools/dashboard?hl=en&authuser=0&siteUrl=https://fanzoflenazavaroni.github.io)
 
-## Graphics
+### Graphics
 * **Hosting Websites:**
    * [iCloud Photos](https://www.icloud.com#photos)
 * **OnLine Graphic Tools:**
@@ -68,7 +68,7 @@ permalink: /bookmarks/
    * [Mirrorpix](https://www.mirrorpix.com)
    * [Pixabay](https://pixabay.com/en/users/Robcamstone-8863342)
 
-## Lifestyle
+### Lifestyle
 * **Health:**
    * [Patient Access](https://www.patientaccess.com)
    * [Poverest Medical Centre](http://www.poverestmedicalcentre.co.uk)
@@ -81,7 +81,7 @@ permalink: /bookmarks/
    * [Wordery](https://wordery.com)
    * [zoom](https://www.zoom.co.uk)
 
-## Music
+### Music
    * [45Cat: Robcamstone](http://www.45worlds.com/m/robcamstone)
    * [ALLMUSIC](https://www.allmusic.com/profile/robcamstone)
    * [IMDb: Robcamstone](http://www.imdb.com/user/ur29493739)
@@ -90,10 +90,10 @@ permalink: /bookmarks/
    * [Listen Brainz: Robcamstone](https://listenbrainz.org/user/Robcamstone)
    * [Soundcloud: Robcamstone](https://soundcloud.com/robcamstone)
 
-## Sharing
+### Sharing
    * [Pocket](https://getpocket.com)
 
-## Storage
+### Storage
    * [4shared](https://www.4shared.com/account/home.jsp#dir=FXDapMs1)
    * [Degoo](https://app.degoo.com/files/0)
    * [iCloud](https://www.icloud.com)
@@ -101,7 +101,7 @@ permalink: /bookmarks/
    * [OneDrive](http://onedrive.live.com)
    * [Yandex Disk](https://disk.yandex.com/client/disk)
 
-## TV & Radio
+### TV & Radio
 * **Television**
    * [BBC One](https://www.bbc.co.uk/schedules/p00fzl6p)
    * [BBC Two](https://www.bbc.co.uk/schedules/p00fzl97)
@@ -115,10 +115,9 @@ permalink: /bookmarks/
    * [BBC Radio 4](https://www.bbc.co.uk/schedules/p00fzl7j)
    * [BBC Radio 4 Extra](https://www.bbc.co.uk/schedules/p00fzl7l)
 
-## YouTube
+### YouTube
 * **My Youtube Channels**
    * [Robcamstone](https://www.youtube.com/channel/UCxGas6kcIvNZVIpZfTPKLug)
-   * [Fanz of Debbie Harry](https://www.youtube.com/channel/UCdwGG86mU96jvORZiXdiuyw)
    * [Fanz of Bonnie Langford](https://www.youtube.com/channel/UCOkMlk-r6RflBEMiEW8Xyqg)
    * [Fanz of Michaela Strachan](https://www.youtube.com/channel/UC-k-NxlJ33NqfwKsF2JItAQ)
    * [Fanz of Lucy Worsley](https://www.youtube.com/channel/UC8L4vWvQV3MUu8FrQqGiYvA)
@@ -126,7 +125,7 @@ permalink: /bookmarks/
 * **Third Party Websites**
    * [Thumbnail Save](http://thumbnailsave.com)
    
-## YouTube Music
+### YouTube Music
 * **My Youtube Music Channels**
    * [Robcamstone](https://music.youtube.com/channel/UCxGas6kcIvNZVIpZfTPKLug)
    * [Bonnie Langford](https://music.youtube.com/channel/UCOkMlk-r6RflBEMiEW8Xyqg)
