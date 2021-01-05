@@ -26,16 +26,13 @@ permalink: /bookmarks/
 
 ### Github
 * **Profile:**
-   * [Robcamstone](https://github.com/Robcamstone)
-   * [Fanz of Lucy Worsley](https://github.com/FanzOfLucyWorsley)
+   * [Robcamstone](https://github.com/Robcamstone
    * [Fanz of Lena Zavaroni](https://github.com/fanzoflenazavaroni)
 * **Repositories:**
    * [Robcamstone.github.io](https://github.com/Robcamstone/Robcamstone.github.io)
-   * [fanzoflucyworsley.github.io](https://github.com/FanzOfLucyWorsley/fanzoflucyworsley.github.io)
    * [fanzoflenazavaroni.github.io](https://github.com/fanzoflenazavaroni/fanzoflenazavaroni.github.io)
 * **GitPages:**
    * [robcamstone.github.io](https://robcamstone.github.io)
-   * [fanzoflucyworsley.github.io](https://fanzoflucyworsley.github.io)
    * [fanzoflenazavaroni.github.io](https://fanzoflenazavaroni.github.io)
 
 ### Google Links
